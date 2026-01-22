@@ -1,0 +1,23 @@
+{
+  "name": "septumspi",
+  "version": "1.0.0",
+  "description": "screenshot api ;D",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "24.x"
+  },
+  "dependencies": {
+    "puppeteer-core": "^23.5.3",
+    "@sparticuz/chromium": "^143.0.0"
+  },
+  "keywords": [
+    "screenshot",
+    "puppeteer",
+    "serverless",
+    "api",
+    "vercel"
+  ],
+  "author": "alqsdeuss",
+  "license": "MIT"
+}
